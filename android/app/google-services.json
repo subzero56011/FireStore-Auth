@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247166531600",
+    "project_id": "authenticationtaskabsai",
+    "storage_bucket": "authenticationtaskabsai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247166531600:android:4bf065cafb2c548196f295",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247166531600-1fvk4bfqf1oh566vfjq3ese5qv51rred.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Abs.AI.authentication_task",
+            "certificate_hash": "801bbcd7293c6f95c52551d9d658737b95ae8da7"
+          }
+        },
+        {
+          "client_id": "247166531600-9o2bogben0u1qj6esu3a69mh8ok16srd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIYW0zPn3Jel2tIsTU6cSrChxO7ZjDag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247166531600-9o2bogben0u1qj6esu3a69mh8ok16srd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
